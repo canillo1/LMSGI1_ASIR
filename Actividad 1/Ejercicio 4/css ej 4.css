@@ -1,8 +1,8 @@
-h1{
-color: red;font-weight: bold;
-}
-div#Trabajador1{background-color:gray;border: 2px color(blue) solid ;}
-h2#trab1{color:blue; text-align: center;}
+h1{color: red;font-weight: bold;}
+div#Trabajador1{background-color:gray;border: 2px color(rgb(0, 0, 0)) solid ;}
+h2#Trab1{color:blue; text-align: center; text-transform: capitalize;font-size: 35px;}
 ul#list1{border: 3px solid}
-ul#list2{border: 3px solid}
-div#Trabajador2{background-color:gray; border: 2px color(green) solid;}
+div#Trabajador2{background-color:gray; border: 2px color(rgb(0, 0, 0)) solid;}
+span#nombre1{text-decoration: underline;}
+h3{font-weight: bold;}
+h2#Trab2{color: greenyellow;text-align:center;text-transform: capitalize; font-size: 35px;}
