@@ -1,0 +1,14 @@
+Crea la siguiente página web con los ficheros “queen.html” y “estilos.css”, teniendo en
+cuenta las siguientes indicaciones:
+● Todos los estilos están especificados en el archivo “estilos.css”.
+● La familia de fuente utilizada en todo el documento deberá ser "Times New Roman",
+Times, serif.
+● El tamaño de la imagen es 400 x 200 píxeles.
+● El borde de la tabla es de 1px y color negro.
+● El espacio entre en contenido de las celdas de la tabla y su borde es 10px.
+9
+● El enlace al sitio web oficial de Queen debe abrirse en una pestaña nueva.
+Todas las imágenes necesarias se encuentran en la plataforma Moodle.
+Todas las imágenes deberán tener su texto alternativo.
+En la tabla siguiente se indican colores y tamaños de diferentes elementos mostrados en la
+página web:
