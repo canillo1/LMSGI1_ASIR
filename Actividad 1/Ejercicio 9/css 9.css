@@ -1,0 +1,6 @@
+body{background-color: #267352;font-family: sans-serif; font-size: 1.25rem;}
+h1{color: white; text-align: left;text-shadow:5px 5px 0px 0px rgb(black) ;text-transform: uppercase;}
+p{text-justify: auto;}
+p.intro{border: 10px black solid;border-radius: 30px;margin-left: 25%;margin-right: 25%;padding: 20px;background-color: white;}
+p.estilo-1{border: color:#802400 20px solid;border-radius:30px;margin-left:25%;margin-right:25%;padding:20px;background-color:white;}
+p.estilo-2{border: color:#804800 15px solid;border-bottom-right-radius:15px;border-top-right-radius:15px;margin-left:50%; padding:5px;background-color: #b37b33 ;color:white;}
