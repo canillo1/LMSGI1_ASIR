@@ -1,0 +1,11 @@
+body{font-family: 'Courier New', Courier, monospace}
+p#parrafo_1{background-color:grey;}
+h1.especial{color: blue;}
+h1.normal{color: black;}
+.varios1{border: solid orange 1px;}
+ul.primero{color:red}
+ul.segundo{color:green}
+h3.antes{font-weight: bold;background-color:pink;}
+h3.despues{font-weight: bold;background-color: blue;}
+img.borde1{border:black solid 5px;}
+img.borde2{border:red solid 5px ;}
