@@ -1,0 +1,8 @@
+body{background-color: #eee;color: black; text-align: justify;font-family: sans-serif;}
+h1{color: #333;font-size: 200%;text-align: center; text-transform:uppercase ;}
+h2{background-color: #888;color: red;font-size: 150%;text-transform: capitalize;}
+h3{background-color: #aaa;color:#8B008B ;font-size: 130%;}
+p{background-color: #ccc;line-height: 150%;}
+address{background-color: white;font-style:normal;text-align: right;}
+em{color: blue;font-style: normal;font-weight: bold;text-decoration: underline;}
+strong{color: green;font-style: normal;font-weight: normal;}
