@@ -8,7 +8,7 @@ thead{color: white;font-size: 16px;background-color:#666}
 .enlace{color: blue;font: size 16px;}
 th,td{border:1px solid; padding: 10px;}
 tbody{background-color: #fff;}
-p{color: #000;font-size: 16px;}
+p{color: #666;font-size: 16px;font-weight: bold; }
 li{color:#000; font-size: 16px;}
 td{color: #000; font-size: 16px;}
 tfoot{background-color:#ccc;color: #000;font-size: 16px;}
