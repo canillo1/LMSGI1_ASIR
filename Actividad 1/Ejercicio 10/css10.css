@@ -1,0 +1,25 @@
+/* Definir Ribeye Marrow */
+@font-face {
+    font-family: 'Ribeye Marrow';
+    src: url('Ribeye_Marrow/RibeyeMarrow-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lobster';
+    src: url('Lobster/Lobster-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Just Another Hand';
+    src: url('Just_Another_Hand/JustAnotherHand-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {background-color: #ccac4d;}
+h1{font-family: Ribeye Marrow, sans-serif;font-size: 3rem;letter-spacing: 1.5rem;text-align: center;text-transform: uppercase;}
+#intro {margin-left: 30%;margin-right: 30%;font-family: Ribeye Marrow, sans-serif;line-height: 200%;text-align: justify;}
+cite {font-family:Lobster, cursive;text-decoration: underline;}
+#latin {margin: 0;font-family:Lobster,cursive;font-size: 2.5rem;text-align: left;}
+#espanol {margin: 0 0 3rem 0;color:white; font-family:Just Another Hand,cursive;font-size:3.5rem;letter-spacing:1px;text-align:right;}
