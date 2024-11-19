@@ -1,0 +1,75 @@
+body{
+    background-color: #F5EEC8;
+}
+#todos_los_formularios{
+    background-color:#D2D7E1;
+    border:2px solid #ff7f7f;
+    border-radius: 7px;
+    padding:3px;
+}
+#formulario1{
+    justify-content: center;
+    font-size: 14px;
+    color:#6B121B;
+}
+fieldset{
+    border:1px dotted gray;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+legend{
+    color: gray;
+    font-size: 13px;
+    margin-bottom: 16px;
+    padding: 0;
+    margin-left: 5px;
+}
+input{
+    background-color: white;
+    border-radius: 4px;
+    color:#264f96;
+    font-size: 16px;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 10px;
+    outline: none;
+}
+#boton{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color:#2a477a;
+    font-size:14;  
+}
+#boton:hover{color:#5376b2;}
+#text-area{
+width: 450px;
+height: 50px;
+max-width: 493px;
+min-width: 300px;
+max-height: 200px;
+min-height: 50px;
+margin-top: 4px;
+border-radius:4px;
+color:#264f96;
+font-size: 16px;
+padding-top: 3px;
+padding-right: 3px;
+padding-bottom:3px;
+padding-left:10px;
+}
+:required{
+    border-color: #4aa248;
+    box-shadow: 3px 0px 0px 0px #4aa248;}
+:invalid{
+    border-color: #ff7f7f;
+    box-shadow: 3px 0px 0px 0px #ff7f7f;
+}
