@@ -1,0 +1,72 @@
+
+header{
+    border: 0px solid rgb(30, 55, 75);
+    padding: 6px; 
+    font-family:'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    background-color: rgb(30,55,75);
+    color: white;
+    font-size:20px;
+}
+
+main{background-color: rgb(238, 236, 236);}
+
+h1{font-size: 20px;}
+
+img#imagen_head{float: left; padding-top: 9px;}
+
+li#header{
+    display: flex; 
+    border: 0px solid rgb(70, 100, 130); opacity: 255;
+    color: white;
+    background-color: rgb(70, 100, 130);
+    padding: -6px;
+}
+li#main{
+    display: flex;
+    gap: 50px;
+}
+
+ul#html5{
+    background-color: white;
+    border: 2px solid gainsboro;
+    box-shadow: 1px 1px 0px 0px gray;
+    padding: -5px;
+    border-radius: 20px;
+}
+ul#xml{
+    background-color: white;
+    border:2px solid gainsboro;
+    box-shadow: 1px 1px 0px 0px gray;
+    border-radius: 20px;
+}
+ul#css{ 
+    background-color: white;
+    border-radius: 20px;
+    border:2px solid gainsboro;
+    box-shadow: 1px 1px 0px 0px gray;
+}
+footer{
+    border: 0px solid rgb(30, 55, 75);
+    padding: 6px; 
+    position: fixed;
+    background-color: rgb(30, 55, 75);
+    color: white;
+}
+li#footer{
+    display: flex;
+    gap: 566px;
+}
+#copiright{
+    font-size: small;
+    text-align: left;
+}
+
+#fondo{
+    display: flex;
+    text-align: center;}
+
+#abajo_delecha{font-style: italic;
+font-size: small ;
+text-align: right;
+}

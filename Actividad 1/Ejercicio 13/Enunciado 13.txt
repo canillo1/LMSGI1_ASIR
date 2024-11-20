@@ -1,0 +1,10 @@
+De forma completamente autónoma reproduce con la mayor exactitud posible la siguiente
+estructura de una página web.
+La sección que se ve en la imagen corresponde con la pestaña “Inicio” del panel de
+navegación.
+En los recursos de la tarea tenéis la imagen que se adjunta más abajo para que podáis
+abrirla y analizarla con mayor detalle.
+Recursos
+Selector de color en Google Chrome
+Extensión para la selección de colores
+Eliminar el fondo de imágenes
