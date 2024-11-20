@@ -63,11 +63,13 @@ li#footer{
     text-align: right;
 }
 li#info{
-    float: left;
+    display: flex;
 }
 li>h1{font-weight: bold;
-font-size: 30%;}
-#audio{
-    text-align: center;
-    justify-content: center;
+font-size: 30%;
 }
+div#audio>h1{text-align: center;}
+audio{
+    width: 100%;
+}
+ul#cono{}
