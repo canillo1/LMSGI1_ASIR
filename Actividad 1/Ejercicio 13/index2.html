@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Ejercicio12" content="Ejercicio 12 relacion HTML y CSS.">
+    <title>Ejercicio 12</title>
+    <link rel="stylesheet" href="css 2.css">
+</head>
+<body>
+
+<div id="todos_los_formularios">
+<fieldset>
+    <legend>Datos personales</legend>
+    <div id="formulario1">
+            <label>Nombre:</label><input type="text" placeholder="nombre" required><br>
+            <label>Correo electrónico:</label><input type="email" placeholder="correo@gmail.com" required aria-invalid="">
+    </div>
+</fieldset required>
+<fieldset>
+    <legend>Datos personales</legend>
+    <div id="formulario1">
+        <label>Breve descripción del proyecto</label>
+        <input type="text"id="text-area">
+        <p>Estado actual del proyecto:</p>
+        <label>En planteamiento</label><input type="checkbox"> <label>En planificación</label><input type="checkbox"><label>En ejecución</label><input type="checkbox"> <label> Ya finalizado</label> <input type="checkbox">
+        <label>Presupuesto aproximado (en €)</label><input type="number">
+    </div>
+</fieldset>
+    <input type="submit" placeholder:"Enviar" id="boton">
+</div>
+<a href="index.html"><input type="submit" placeholder:"volver" id="volver_1"></a>
+</body>
+</html>
