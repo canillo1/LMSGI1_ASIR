@@ -1,6 +1,4 @@
-
 header{
-    border: 0px solid rgb(30, 55, 75);
     padding: 6px; 
     font-family:'Times New Roman', Times, serif;
     text-transform: capitalize;
@@ -30,7 +28,6 @@ img#imagen_head{
 
 li#header{
     display: flex; 
-    border: 0px solid rgb(70, 100, 130); 
     opacity: 255;
     color: white;
     background-color: rgb(70, 100, 130);
@@ -61,15 +58,18 @@ ul#css{
     box-shadow: 1px 1px 0px 0px gray;
 }
 footer{
-    border: 0px solid rgb(30, 55, 75);
     padding: 6px; 
     position: fixed;
     background-color: rgb(30, 55, 75);
     color: white;
+    width: 99dvw;
+    justify-content: center;
+
 }
 li#footer{
     display: flex;
-    gap: 566px;
+    justify-content: space-between;
+
 }
 #copiright{
     font-size: small;
