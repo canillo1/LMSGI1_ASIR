@@ -9,15 +9,29 @@ header{
     font-size:20px;
 }
 
+#contacto{
+    font-style: normal;
+    color:white;
+    text-decoration:none;
+}
+#contacto:hover{
+    color: aqua;
+    font-size: x-large;
+}
+
 main{background-color: rgb(238, 236, 236);}
 
 h1{font-size: 20px;}
 
-img#imagen_head{float: left; padding-top: 9px;}
+img#imagen_head{
+    float: left; 
+    padding-top: 9px;
+}
 
 li#header{
     display: flex; 
-    border: 0px solid rgb(70, 100, 130); opacity: 255;
+    border: 0px solid rgb(70, 100, 130); 
+    opacity: 255;
     color: white;
     background-color: rgb(70, 100, 130);
     padding: -6px;
@@ -64,9 +78,11 @@ li#footer{
 
 #fondo{
     display: flex;
-    text-align: center;}
+    text-align: center;
+}
 
-#abajo_delecha{font-style: italic;
-font-size: small ;
-text-align: right;
+#abajo_delecha{
+    font-style: italic;
+    font-size: small ;  
+    text-align: right;
 }
