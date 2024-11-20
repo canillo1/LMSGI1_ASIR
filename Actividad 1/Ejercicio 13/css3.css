@@ -1,0 +1,73 @@
+header{
+    padding: 6px; 
+    font-family:'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    background-color: rgb(30,55,75);
+    color: white;
+    font-size:20px;
+}
+
+#contacto{
+    font-style: normal;
+    color:white;
+    text-decoration:none;
+}
+#contacto:hover{
+    color: aqua;
+    font-size: x-large;
+}
+
+main{background-color: rgb(238, 236, 236);}
+
+h1{font-size: 20px;}
+
+img#imagen_head{
+    float: left; 
+    padding-top: 9px;
+}
+
+li#header{
+    display: flex; 
+    opacity: 255;
+    color: white;
+    background-color: rgb(70, 100, 130);
+    padding: -6px;
+}
+footer{
+    padding: 6px; 
+    position: fixed;
+    background-color: rgb(30, 55, 75);
+    color: white;
+    width: 99dvw;
+    justify-content: center;
+
+}
+li#footer{
+    display: flex;
+    justify-content: space-between;
+
+}
+#copiright{
+    font-size: small;
+    text-align: left;
+}
+
+#fondo{
+    display: flex;
+    text-align: center;
+}
+
+#abajo_delecha{
+    font-style: italic;
+    font-size: small ;  
+    text-align: right;
+}
+li#info{
+    float: left;
+}
+li>h1{font-weight: bold;
+font-size: 30%;}
+#audio{
+    text-align: center;
+    justify-content: center;
+}
