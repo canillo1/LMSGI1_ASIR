@@ -64,6 +64,7 @@ footer{
     color: white;
     width: 99dvw;
     justify-content: center;
+    bottom: 0%  ;
 
 }
 li#footer{
@@ -86,3 +87,4 @@ li#footer{
     font-size: small ;  
     text-align: right;
 }
+html{background-color: rgb(30, 55, 75);}
