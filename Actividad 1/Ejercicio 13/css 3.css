@@ -48,6 +48,9 @@ li#footer{
     justify-content: space-between;
 
 }
+#cono{
+    float: right;
+}
 #copiright{
     font-size: small;
     text-align: left;
@@ -72,8 +75,5 @@ font-size: 30%;
 div#audio>h1{text-align: center;}
 audio{
     width: 100%;
-}
-ul#cono{
-    float: right;
 }
 html{background-color: rgb(30,55,75);}
